@@ -31,7 +31,7 @@ The format of an if statement is:
 
 if( <Logical/Arithmetic Expression> ) <goto statement>;
 
-If the <arithmetic expression> != 0, the statement is execute.
+If the <arithmetic expression> != 0, the statement executes.
 
 # read statement
 The read statement has the format:
